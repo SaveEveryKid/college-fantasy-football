@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Caleb Williams", "position": "QB", "team": "USC", "rating": 95 },
+  { "id": 2, "name": "Jayden Daniels", "position": "QB", "team": "LSU", "rating": 92 },
+  { "id": 3, "name": "Marvin Harrison Jr.", "position": "WR", "team": "Ohio State", "rating": 94 },
+  { "id": 4, "name": "Quinn Ewers", "position": "QB", "team": "Texas", "rating": 90 },
+  { "id": 5, "name": "TreVeyon Henderson", "position": "RB", "team": "Ohio State", "rating": 89 },
+  { "id": 6, "name": "Brock Bowers", "position": "TE", "team": "Georgia", "rating": 88 },
+  { "id": 7, "name": "Raheim Sanders", "position": "RB", "team": "Arkansas", "rating": 87 },
+  { "id": 8, "name": "Emeka Egbuka", "position": "WR", "team": "Ohio State", "rating": 86 },
+  { "id": 9, "name": "Tyler Warren", "position": "TE", "team": "Penn State", "rating": 85 },
+  { "id": 10, "name": "Michael Penix Jr.", "position": "QB", "team": "Washington", "rating": 90 }
+]
